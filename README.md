@@ -27,41 +27,41 @@ I’m particularly interested in:
 ### 🔹 GenAI Traffic Classification
 **Fingerprinting Human–GenAI Multimedia in Encrypted Networks**
 
-- Reframed encrypted traffic analysis as a **temporal sequence learning problem** :contentReference[oaicite:0]{index=0}  
-- Converted packet streams into **behavioral signals (timing, bursts, directionality)** :contentReference[oaicite:1]{index=1}  
-- Designed a **CNN–LSTM hybrid** to model burst–idle transitions and long-range dependencies :contentReference[oaicite:2]{index=2}  
-- Achieved **89% accuracy with 98% precision** using behavior-only signals :contentReference[oaicite:3]{index=3}  
-- Identified a core challenge: **behavioral overlap during idle/buffering phases** :contentReference[oaicite:4]{index=4}  
+- Reframed encrypted traffic analysis as a **temporal sequence learning problem**   
+- Converted packet streams into **behavioral signals (timing, bursts, directionality)**   
+- Designed a **CNN–LSTM hybrid** to model burst–idle transitions and long-range dependencies  
+- Achieved **89% accuracy with 98% precision** using behavior-only signals  
+- Identified a core challenge: **behavioral overlap during idle/buffering phases**
 
 ---
 
 ### 🔹 SLA Anomaly Detection System
 **E-commerce System Monitoring via Residual Learning**
 
-- Built an end-to-end anomaly detection pipeline for **traffic, latency, and failures** :contentReference[oaicite:5]{index=5}  
-- Trained **XGBoost models** to learn baseline system behavior :contentReference[oaicite:6]{index=6}  
-- Detected anomalies via **residual deviation + hybrid thresholding** :contentReference[oaicite:7]{index=7}  
-- Achieved **~90% precision and ~92% recall** with controlled alerts :contentReference[oaicite:8]{index=8}  
-- Deployed using **AWS SageMaker + API Gateway + Docker + MLflow** :contentReference[oaicite:9]{index=9}  
+- Built an end-to-end anomaly detection pipeline for **traffic, latency, and failures**  
+- Trained **XGBoost models** to learn baseline system behavior 
+- Detected anomalies via **residual deviation + hybrid thresholding** 
+- Achieved **~90% precision and ~92% recall** with controlled alerts 
+- Deployed using **AWS SageMaker + API Gateway + Docker + MLflow** 
 
 ---
 
 ### 🔹 Domnigent
 **AI-Powered Domain Intelligence System**
 
-- Generated context-aware domain names using **LLM pipelines (Hugging Face APIs)** :contentReference[oaicite:10]{index=10}  
-- Designed prompts for **relevance, diversity, and brandability** :contentReference[oaicite:11]{index=11}  
-- Integrated **RDAP-based availability validation** for real-time feedback :contentReference[oaicite:12]{index=12}  
-- Built interactive system using **Streamlit** :contentReference[oaicite:13]{index=13}  
+- Generated context-aware domain names using **LLM pipelines (Hugging Face APIs)** 
+- Designed prompts for **relevance, diversity, and brandability** 
+- Integrated **RDAP-based availability validation** for real-time feedback 
+- Built interactive system using **Streamlit** 
 
 ---
 
 ### 🔹 KV Secure Storage
 **Secure Credential Management System**
 
-- Built a full-stack secure storage system using **React, Flask, PostgreSQL** :contentReference[oaicite:14]{index=14}  
-- Designed **REST APIs for secure credential handling** :contentReference[oaicite:15]{index=15}  
-- Enforced **environment-based secret management** (no hardcoded credentials) :contentReference[oaicite:16]{index=16}  
+- Built a full-stack secure storage system using **React, Flask, PostgreSQL**  
+- Designed **REST APIs for secure credential handling**  
+- Enforced **environment-based secret management** (no hardcoded credentials)  
 
 ---
 
@@ -105,7 +105,7 @@ MySQL • PostgreSQL • Git • Postman • Wireshark
 
 ## 📫 Connect
 
-📧 Email: *[krama1673.pro@gmail.com]*  
+📧 Email: krama1673.pro@gmail.com  
 🔗 LinkedIn: *[(https://www.linkedin.com/in/koushik-rama-676142390/)]*  
 
 ---
